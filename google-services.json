@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "683569130458",
+    "project_id": "asteroid-5b622",
+    "storage_bucket": "asteroid-5b622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683569130458:android:5daa65509fcee061422ee3",
+        "android_client_info": {
+          "package_name": "com.example.asteroid_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683569130458-96v51456e7med7cioqa7r0shn1omag0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJzGc-Hdw8ydAc-HciDFBdiME0Q6n59A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683569130458-96v51456e7med7cioqa7r0shn1omag0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683569130458-ukekf2oka9js44bi53i2ddd59npq82e8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asteroidMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
